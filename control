@@ -1,0 +1,8 @@
+Package: com.ps.buddylock
+Name: BuddyLock
+Depends: mobilesubstrate, firmware (>= 7.0)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hello at lockscreen!
+Author: PoomSmart
+Section: Tweaks
